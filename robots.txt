@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://corudoviqoga.vercel.app/sitemap.xml
